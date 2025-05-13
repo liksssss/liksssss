@@ -2,7 +2,7 @@
   <img src="img/github-header-image.png" alt="imam maliki" width="100%" />
 </p>
 
-<p align="center>
+<p align="center">
     <a href="https://github.com/liksssss"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/liksssss/liksssss/graphs/contributors"><img src="https://img.shields.io/github/contributors/liksssss/liksssss?color=blue"></a>
     <a href="https://github.com/liksssss/liksssss/stargazers"><img src="https://img.shields.io/github/stars/liksssss/liksssss.svg?logo=github"></a>
