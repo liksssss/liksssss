@@ -1,7 +1,12 @@
 ![imam maliki](img/github-header-image.png)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/imm-maliki) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/imm.maliki) [![Instagram](https://img.shields.io/badge/Instagram-%23FF0000.svg?logo=Instagram&logoColor=white)](https://youtube.com/@imm.maliki) 
+<p align="center">
+<a href="https://liksssss.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://liksssss.github.io/-purple?style=flat&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/imm-maliki" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Imam%20Maliki-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:imammalik.liks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imammalik.liks@gmail.com-green?style=flat&logo=gmail"></a>
+<a href="https://instagram.com/imm.maliki"><img alt="Github" src="https://img.shields.io/badge/Instagram-imm.maliki-red?style=flat&logo=Instagram"></a>
+</p>
 
 <p>
     <a href="https://github.com/liksssss"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
