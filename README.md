@@ -1,11 +1,5 @@
-![imam maliki](img/github-header-image.png)
-
-## 🌐 Socials:
 <p align="center">
-<a href="https://liksssss.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://liksssss.github.io/-purple?style=flat&logo=google-chrome"></a>
-<a href="https://linkedin.com/in/imm-maliki" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Imam%20Maliki-blue?style=flat&logo=linkedin"></a>
-<a href="mailto:imammalik.liks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imammalik.liks@gmail.com-green?style=flat&logo=gmail"></a>
-<a href="https://instagram.com/imm.maliki"><img alt="Github" src="https://img.shields.io/badge/Instagram-imm.maliki-red?style=flat&logo=Instagram"></a>
+  <img src="img/github-header-image.png" alt="imam maliki" width="100%" />
 </p>
 
 <p>
@@ -16,7 +10,13 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=liksssss" alt="visitors"/>   
 </p>
 
-
+## 🌐 Socials:
+<p align="center">
+<a href="https://liksssss.github.io/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-https://liksssss.github.io/-purple?style=flat&logo=google-chrome"></a>
+<a href="https://linkedin.com/in/imm-maliki" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Imam%20Maliki-blue?style=flat&logo=linkedin"></a>
+<a href="mailto:imammalik.liks@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-imammalik.liks@gmail.com-green?style=flat&logo=gmail"></a>
+<a href="https://instagram.com/imm.maliki"><img alt="Github" src="https://img.shields.io/badge/Instagram-imm.maliki-red?style=flat&logo=Instagram"></a>
+</p>
 
 ### 🛠 Languages and Tools
 <div align="center">
